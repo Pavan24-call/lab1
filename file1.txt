@@ -1,4 +1,0 @@
-hello everyone
-this is devops
-deveolopement purposes
-code 14826
